@@ -29,7 +29,7 @@ Check out my [portfolio](https://dotkohlen.com) to see what I'm working on!
 ###
 
 <div align="center">
-  <img height="150" alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=rajx88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=neon&locale=en&hide_border=false&order=1&show=pr_merged&hide=contribs&rank_icon=github"/>
+  <img height="150" alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=rajx88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=neon&locale=en&hide_border=false&order=1&rank_icon=github"/>
   <img height="150" alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajx88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=neon&hide_border=false&order=2"   />
 </div>
 
