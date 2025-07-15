@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hey, I'm Richard 👋
 
-<!--
-**rajx88/rajx88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves turning ideas into clean, functional software — from small CLI tools to full-scale web platforms. I enjoy working with modern, minimal tech stacks and exploring new ways to build fast, reliable, and elegant solutions.
 
-Here are some ideas to get you started:
+Check out my [ portfolio ](https://dotkohlen.com) to see what I'm working on!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Languages I use:
+- Go, Zig, Rust, Java 
+
+🛠️  Tech & tools I like:
+- NixOS, Arch, Neovim
+
+### Some fun Graphs!  
+Statistics on my personal hobby project's and free time coding.
+
+<p></p>
+<a href="https://github.com/rajx88">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rajx88&hide=contribs,issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&rank_icon=github" />
+</a>
+<a href="https://github.com/rajx88?tab=repositories">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajx88&exclude_repo=dotfiles&langs_count=8&layout=compact&card_width=320&theme=dracula" />
+</a>
+
