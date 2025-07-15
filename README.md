@@ -10,9 +10,6 @@ Check out my [ portfolio ](https://dotkohlen.com) to see what I'm working on!
 🛠️  Tech & tools I like:
 - NixOS, Arch, Neovim
 
-### Some fun Graphs!  
-Statistics on my personal hobby project's and free time coding.
-
 <p></p>
 <a href="https://github.com/rajx88">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rajx88&hide=contribs,issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&rank_icon=github" />
